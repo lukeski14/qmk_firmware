@@ -1,0 +1,5 @@
+#define RGBLIGHT_SLEEP
+
+#define ENCODERS_PAD_A { B0 }
+#define ENCODERS_PAD_B { E6 }
+#define ENCODER_RESOLUTION 2
